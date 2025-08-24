@@ -5,7 +5,7 @@ For this project, I was provided with a starter environment and some initial fra
 Connect your learning from throughout this course to the larger field of computer science:
 
 What do computer scientists do and why does it matter?
-Computer scientists design, build, and optimize systems that solve problems. They use algorithms, data structures, and computational thinking to turn complex tasks into repeatable, efficient processes. This matters because almost every industry. from healthcare to entertainment—relies on these systems to function and improve. This project showed me how algorithms can learn behaviors autonomously, which has huge implications for automation and AI-driven decision-making.
+Computer scientists design, build, and optimize systems that solve problems. They use algorithms, data structures, and computational thinking to turn complex tasks into repeatable, efficient processes. This matters because almost every industry, from healthcare to entertainment, relies on these systems to function and improve. This project showed me how algorithms can learn behaviors autonomously, which has huge implications for automation and AI-driven decision-making.
 
 How do I approach a problem as a computer scientist?
 I approach problems by breaking them down into smaller parts and analyzing their requirements. For this project, I defined the states, actions, and rewards, then mapped out how an agent could learn through trial and error. I planned the algorithm, tested it, and adjusted based on results. This systematic approach helps make complex challenges manageable.
